@@ -1,1 +1,1 @@
-IN THIS PROJECT WE SOLVED VARIOUS QUESTIONS AND ANSWERS USING SQL QUERIES OF THE IPL MATCH RAW DATA 
+In this project we solved various Questions and answers using SQL queries of the IPL Match Data
